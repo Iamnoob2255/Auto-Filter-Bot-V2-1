@@ -3,14 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+ഹായ് ഞാൻ മലയാളം മൂവി ഫാക്ടറിയുടെ ഗ്രൂപ്പ് 
+മാനേജ്മെന്റ് ബോട്ട് ആണ്. @Mangalasseryy_neelakandan എന്നെ നിർമിച്ചത് 
+അപ്പോ എങ്ങനാ ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്‌തു ആവശ്യം ഉള്ള മൂവീസ് download ചെയ്യുന്നേ 
+⭕️👇GROUP link👇⭕️
+@MMF_CHAT
 
-This is Version 2 of Auto Filter Bot
-
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
+©️Team Malayalam Movie Factory™️
 For more click <i>help</i></b>"""
 
 
@@ -58,12 +57,12 @@ Bot will automatically search for your files and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Mangalasseryy_neelakandan
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Telegram channel :</b> <a href='https://t.me/tamil_rockers_mallu'>channel Link</a> 
 
 """
